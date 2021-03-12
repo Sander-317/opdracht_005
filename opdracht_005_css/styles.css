@@ -1,0 +1,42 @@
+body{
+    font-family:'Roboto' Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.black-border{
+border:5px solid black;
+margin: 1em;
+border-radius:1em;
+padding-top: 5px ;
+padding-bottom: 10px ;
+padding-left: 15px ;
+padding-right: 20px ;
+
+
+}
+
+.navbar li {
+    display: inline ;
+    list-style-type: none;
+    width: 60px;
+    margin: 0;
+    padding: 0;
+}
+
+
+#green-background{
+    background-color:green;
+    
+
+
+}
+
+img {
+
+transform:rotate(90deg);
+width:100px;
+padding: o;
+margin: auto;
+
+}
